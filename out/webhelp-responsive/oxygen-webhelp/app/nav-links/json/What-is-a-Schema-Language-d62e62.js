@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Document Type Definition (DTD)","shortdesc":"<p class=\"shortdesc\"></p>","href":"Topics\/Concepts\/Document-Type-Definition.html","attributes": {"data-id":"Document-Type-Definition",},"menu": {"hasChildren":false,},"tocID":"Document-Type-Definition-d62e72","topics":[]}]});

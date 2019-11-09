@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"How to Create a Schema Language in Oxygen","shortdesc":"<p class=\"shortdesc\"></p>","href":"Topics\/Tasks\/How-to-Create-a-Schema-Language-in%20-Oxygen.html","attributes": {"data-id":"How-to-Create-a-Schema-Language-in_-Oxygen",},"menu": {"hasChildren":false,},"tocID":"How-to-Create-a-Schema-Language-in_-Oxygen-d62e93","topics":[]}]});

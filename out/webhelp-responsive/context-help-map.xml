@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="Untitled" path="Topics/Concepts/What-is-Markup-Language.html"/>
+   <appContext helpID="Different-Markup_Languages"
+               path="Topics/References/Different-Markup_Languages.html"/>
+   <appContext helpID="Untitled" path="Topics/Concepts/What-is-XML.html"/>
+   <appContext helpID="What-is-HTML" path="Topics/Concepts/What-is-HTML.html"/>
+   <appContext helpID="Some-of-the-Elements-in-HTML"
+               path="Topics/References/Some-of-the-Elements-in-HTML.html"/>
+   <appContext helpID="What-is-a-Schema-Language"
+               path="Topics/Concepts/What-is-a-Schema-Language.html"/>
+   <appContext helpID="Document-Type-Definition"
+               path="Topics/Concepts/Document-Type-Definition.html"/>
+   <appContext helpID="Oxygen-XML-Editor"
+               path="Topics/Concepts/Oxygen-XML-Editor.html"/>
+   <appContext helpID="How-to-Create-a-Schema-Language-in_-Oxygen"
+               path="Topics/Tasks/How-to-Create-a-Schema-Language-in%20-Oxygen.html"/>
+</map>
